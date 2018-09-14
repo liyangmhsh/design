@@ -1,7 +1,7 @@
 package com.ly.design.creational.factory;
 
 /**
- * 抽象工厂
+ * 工厂方法模式
  * @author li.yang.dz1
  * @Date created in 2018/9/13
  * @Description
